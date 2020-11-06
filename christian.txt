@@ -1,0 +1,5 @@
+public static void main(String args[]){
+    {% comment %} added the terminator {% endcomment %}
+    System.out.println("This is just a try work");
+
+}
