@@ -1,7 +1,7 @@
 x = "Chempa Francis"
 x1 = "KojoBoat"
 x2 = ""
-x3 = ""
+x3 = "Justice"
 
 
 print(x)
