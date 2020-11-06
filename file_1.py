@@ -1,5 +1,5 @@
 x = "Chempa Francis"
-x1 = "Kojo Boat"
+x1 = "KojoBoat"
 x2 = ""
 x3 = ""
 
