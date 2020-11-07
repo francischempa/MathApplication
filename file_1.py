@@ -1,9 +1,9 @@
-x = "Chempa Francis"
-x1 = "KojoBoat"
-x2 = ""
-x3 = "Justice"
+x = "ChempaFrancis"
+x1 = "KojoBoat" 
+x2 = " Faustina"
+x3 = "Justice" 
 
-
+cout<< "Sleep";
 print(x)
 print(x1)
 print(x2)
