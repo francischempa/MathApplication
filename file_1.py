@@ -1,7 +1,7 @@
 x = "ChempaFrancis"
-x1 = "KojoBoat"
+x1 = "KojoBoat" 
 x2 = " Faustina"
-x3 = ""
+x3 = "Justice" 
 
 cout<< "Sleep";
 print(x)
